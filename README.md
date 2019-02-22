@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Game
+It is a game developed in Python 3.
